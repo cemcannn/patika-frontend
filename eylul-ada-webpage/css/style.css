@@ -1,0 +1,59 @@
+.body-bgcolor {
+    background-color: #ff7300;
+}
+
+.header-type {
+    background-color: #AD8B73;
+    font-family: 'Oooh Baby', cursive;
+    text-align: center;
+}
+
+.section-type {
+    background-color: #E3CAA5;
+    font-family: 'Oooh Baby', cursive;
+    text-align: center;
+}
+
+.footer-type {
+    background-color: #ceb093;
+    font-family: 'Oooh Baby', cursive;
+    text-align: center;
+}
+
+td {
+    width: 200px;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-inside {
+    list-style-position: inside
+}
+
+.img-style {
+    background-color: #CEAB93;
+    padding: 20px;
+    border-radius:20%;
+}
+
+.p-style {
+    background-color: #CEAB93;
+    padding: 60px;
+    border-radius: 40%;
+    font-size: 20px;
+    margin: 10px;
+}
+
+.h-style {
+    width: 300px;
+    background-color: #AD8B73;
+    padding: 10px;
+    border-radius:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
